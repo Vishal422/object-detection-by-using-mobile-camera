@@ -1,8 +1,6 @@
 # object-detection-by-using-mobileapp-IPweb camera
 Aim: To detect object Which is infrount of web camera with the help of opencv2 with Python programing.
-In this project, I will take you through the task of object-detection-by-using-mobileapp-IPweb camera with Computer Vision Opencv2 by using the Python programming language. 
-Yes, I have worked with OpenCV And Deep Learning Using Object Detection with the help of the Mobile app WebCam 
-I have taken Data set from Kaggle Images objects For the Build object_detection.model Using Deep Learning Techniques CNN 
+In this project, I will take you through the task of object-detection-by-mobile app-IP web camera with Computer Vision Opencv2 using data with weights and configuration along with coco names to detect objects with YOLO algorithm. 
 
 Lets Start Project:
 
